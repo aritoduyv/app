@@ -103,6 +103,7 @@
     * [setStorageValue](builder/phuong-thuc/setstoragevalue.md)
     * [setTitle](builder/phuong-thuc/settitle.md)
     * [showFilter (deprecated)](builder/phuong-thuc/showfilter-deprecated.md)
+    * [showFixedFooter](builder/phuong-thuc/showfixedfooter.md)
     * [showForm](builder/phuong-thuc/showform.md)
     * [showFullImage](builder/phuong-thuc/showfullimage.md)
     * [showLink](builder/phuong-thuc/showlink.md)
